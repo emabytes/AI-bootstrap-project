@@ -52,7 +52,7 @@ main {
 }
 
 #article {
-  padding: 20vh 2% 15vh 2%;
+  padding: 20vh 2% 10vh 2%;
   display: flex;
   justify-content: center;
 }
